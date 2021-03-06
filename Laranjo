@@ -1,0 +1,5 @@
+$nomention
+$argsCheck[>1;❌ **Escreva algo!**]
+https://arsighta.sirv.com/laranjo-meme-cke.jpg?text.0.text=$replaceText[$message; ;%20;-1]&text.0.position=south&text.0.size=32&text.0.color=000000
+$ignoreLinks
+$deletecommand
