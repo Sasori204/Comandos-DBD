@@ -1,0 +1,6 @@
+$nomention
+$description[ Quanto drip! 🥶🥶🥶🥶🥶]
+$image[https://vacefron.nl/api/drip?user=$userAvatar[$mentioned[1]]]
+$color[#D40404]
+$argsCheck[>1; mencione alguém!]
+$deletecommand
