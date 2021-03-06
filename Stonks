@@ -1,0 +1,7 @@
+$nomention
+$argsCheck[>1;Por favor mencione alguém!!]
+$title[**STONKS**]
+$image[https://vacefron.nl/api/stonks?user=$userAvatar[$mentioned[<]]]
+$color[#FF0000]
+$footer[stonks]
+$addTimestamp
