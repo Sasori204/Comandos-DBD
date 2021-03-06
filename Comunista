@@ -1,0 +1,4 @@
+$nomention
+$title[Comunista alerta!]
+$image[https://api.devs-hub.xyz/communist?image=$userAvatar[$mentioned[1;yes]]]
+$color[#D40404]
