@@ -1,0 +1,5 @@
+$nomention
+$title[Rip]
+$image[https://api.devs-hub.xyz/rip?image=$userAvatar[$mentioned[1;yes]]]
+$color[#D40404]
+$deletecommand
